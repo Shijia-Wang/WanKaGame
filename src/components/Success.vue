@@ -1,10 +1,10 @@
 <template>
-    <h1>注册页面</h1>
+    <h1>登陆成功页面</h1>
 </template>
 
 <script>
     export default {
-        name: "Register"
+        name: "Success"
     }
 </script>
 
